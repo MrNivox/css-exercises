@@ -25,14 +25,11 @@ justify-content: center;
 .footer{
   display: flex;
   justify-content: space-between;
-  background-color: lightgrey;
-  
-  
+  background-color: #eee;
 }
 .right-links{
   display: flex;
-  
-  
+
 }
 .left-links{
   display:flex;
@@ -62,7 +59,7 @@ li {
 
 }
 ul{
-  list-style-type: none;
+  list-style: none;
 }
 a {
   text-decoration: none;
