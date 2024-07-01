@@ -15,7 +15,6 @@ body {
 }
 .s {
   display: flex;
-  justify-content: space-evenly;
   flex: 1; 
 }
 
@@ -23,7 +22,6 @@ body {
   height: 72px;
   background: green;
   color: white;
-  text-align:left;
   align-content: center;
   font-size: 32px;
   font-weight: 900;
